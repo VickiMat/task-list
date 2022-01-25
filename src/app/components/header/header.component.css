@@ -1,0 +1,13 @@
+/* .container{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(151, 40, 173);
+    padding: 25px;
+} */
+
+header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
